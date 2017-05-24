@@ -36,6 +36,9 @@ a:hover{
 #download{
 	display: none;
 }
+#main{
+	display: none;
+}
 .container{
 	max-width: 1080px;
 	margin: 20px auto;
